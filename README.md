@@ -10,7 +10,7 @@ Generate all of the tables and figures needed for the technical report of the st
 
 ## Summarry: 
 
-- We started out with with a total of 249 mice, but were able to identify 1 duplicate. Upon excluding the duplicate, we ended up with 248 unique mice and used that data to perform the following visualizations and/or analysis. 
+- We started out with with a total of 249 mice, and were able to identify 1 duplicate. Upon excluding the duplicate, we confirm 248 unique mice and used this data to perform the following visualizations and linear regression analysis.  
 
 - The _bar graphs_ showed us that the drug Capomulin was used the most (230 mice) and Propiva was used the least (161) 
 
@@ -18,8 +18,8 @@ Generate all of the tables and figures needed for the technical report of the st
 
 - When comparing final volume and drug regimen, the _box plots_ help us see that the median final tumor volume for Capomulin and Ramicane are very similar, around 35 mm3. Similarly, Infubinol and Ceftamin were both centered around 60 mm3. We can also see that Infubinol has one potential outlier around where a final tumor volume level was recorded around 45 mm3, well below the lower outlier boundary for this specific drug. 
 
-- The correlation analysis on the Capomulin drug regimen resulted with a correlation coefficient of approximately .84, which leads us to conclude that there is a strong positive, linear relationship betweeen final tumor size and Capomulin drug regimen. 
+- The correlation analysis on the Capomulin drug regimen resulted with a correlation coefficient of approximately .84, which leads us to conclude that there is a moderately strong positive, linear relationship betweeen final tumor size and Capomulin drug regimen. 
 
-- Our linear regression model may be a good option to project future tumor sizes specific to Capomulin. 
+- Our linear regression model may be a good option to project future tumor sizes specific to Capomulin.  
 
 
